@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Callback</h2>
+
+Code: <strong>@ViewBag.Code</strong>
+<br />
+State: <strong>@ViewBag.State</strong>
+<br />
+RealmId: <strong>@ViewBag.RealmId</strong>
+<br />
+Error: <strong>@ViewBag.Error</strong>
+
+<br />
+<br />
+<p>Note:SIWI flow does not returns relamId as it does not have the required scopes</p>
+<br/>
+
+@if (ViewBag.Code != "none")
+{
+    using (Html.BeginForm())
+    {
+        <input type="submit" value="Get token" />
+    }
+}

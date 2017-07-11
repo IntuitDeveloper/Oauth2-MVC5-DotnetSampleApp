@@ -1,0 +1,123 @@
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll.config
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.pdb
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Antlr3.Runtime.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Constants.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\IdentityModel.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Newtonsoft.Json.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Owin.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Helpers.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Mvc.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Optimization.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Razor.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\WebGrease.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Constants.pdb
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Antlr3.Runtime.pdb
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\IdentityModel.pdb
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\Newtonsoft.Json.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Helpers.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Mvc.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Optimization.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.Razor.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.xml
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\obj\Debug\MVC Manual Code Flow Client.csprojResolveAssemblyReference.cache
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.dll
+C:\Users\nshrivastava\Documents\GitHub\IdentityServer3.Samples-master\source\Clients\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.pdb
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll.config
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.pdb
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\IdentityModel.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Newtonsoft.Json.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\OAuth2PlatformClient.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.ValueTuple.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Helpers.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Mvc.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Razor.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\IdentityModel.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\Newtonsoft.Json.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\OAuth2PlatformClient.pdb
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\OAuth2PlatformClient.dll.config
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Helpers.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Mvc.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.Razor.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.xml
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.dll
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.pdb
+C:\Users\DevAdmin\Desktop\MvcCodeFlowClientManual\obj\Debug\MVC Manual Code Flow Client.csprojResolveAssemblyReference.cache
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll.config
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.pdb
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\IdentityModel.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Web.Infrastructure.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Newtonsoft.Json.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.ValueTuple.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Helpers.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Mvc.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Razor.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\IdentityModel.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Newtonsoft.Json.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Helpers.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Mvc.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.Razor.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.xml
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.pdb
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\obj\Debug\MVC Manual Code Flow Client.csprojResolveAssemblyReference.cache
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.dll
+F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.xml

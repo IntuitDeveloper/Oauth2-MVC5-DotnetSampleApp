@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>IdentityServer3</h1>
+    <h2>MVC5 - Code flow OAuth2 client using Owin context</h2>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <h3>Flows:</h3>
+        @using (Html.BeginForm("MyAction", "Home",FormMethod.Post))
+        {
+            
+
+        
+            <div><input type="submit" name="submitButton" value="C2QB" /></div>
+            <br/>
+         
+            <div><input type="submit" name="submitButton" value="GetAppNow" /></div>
+            <br/>
+
+            <div><input type="submit" name="submitButton" value="SIWI" /></div>
+            <br/>
+
+
+        }
+</div>
+</div>

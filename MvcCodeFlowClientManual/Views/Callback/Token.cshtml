@@ -1,0 +1,52 @@
+﻿@model Intuit.Ipp.OAuth2PlatformClient.TokenResponse
+
+@{
+    ViewBag.Title = "Token response";
+}
+
+<h2>Token response</h2>
+<br />
+
+<p>
+    <strong>Token response:</strong>
+    <br />
+    <pre>@Model.Json.ToString()</pre>
+</p>
+
+<p>
+    <strong>Identity token:</strong>
+    <pre>@ViewBag.IdentityToken</pre>
+</p>
+
+<p>
+    <strong>Access token:</strong>
+    <pre>@ViewBag.AccessToken</pre>
+</p>
+
+<p>
+    <strong>Refresh token:</strong>
+    <pre>@Model.RefreshToken</pre>
+</p>
+
+<p>
+    <strong>Token type:</strong>
+    <br />
+    @Model.TokenType
+</p>
+
+<p>
+    <strong>Access Token Expires:</strong>
+    <br />
+    @(DateTime.Now.AddSeconds(Model.AccessTokenExpiresIn).ToString())
+    @((Model.AccessTokenExpiresIn).ToString())
+
+</p>
+
+<p>
+    <strong>Refresh Token Expires:</strong>
+    <br />
+    @(DateTime.Now.AddSeconds(Model.RefreshTokenExpiresIn).ToString())
+    @((Model.RefreshTokenExpiresIn).ToString())
+
+  
+</p>
