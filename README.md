@@ -1,6 +1,10 @@
-# OAuth2-Dotnet-master
+# Oauth2-MVC5-DotnetSampleApp
 OAuth2 Web Forms Sample app for Dotnet
-The Intuit Developer team has written this OAuth 2.0 Sample App in Node.JS to provide working examples of OAuth 2.0 concepts, and how to integrate with Intuit endpoints.
+The Intuit Developer team has written this OAuth 2.0 Sample App in .Net(C#) MVC5 to provide working examples of OAuth 2.0 concepts, and how to integrate with Intuit endpoints.It uses the Owin Context to save the user cookies for the session.
+More details can be read here-
+https://www.asp.net/aspnet/overview/owin-and-katana
+https://brockallen.com/2013/10/24/a-primer-on-owin-cookie-authentication-middleware-for-the-asp-net-developer/
+
 
 **Getting Started**
 
@@ -8,7 +12,7 @@ Before beginning, it may be helpful to have a basic understanding of OAuth 2.0 c
 
 **PreRequisites**
 
-Visual Studio 2017
+Visual Studio Framework 2.6.1
 
 
 
@@ -35,38 +39,24 @@ logPath should be the location of a physical path on your disk.
 Once you have created an app on Intuit's Developer Portal, you can find your credentials (Client ID and Client Secret) under the "Keys" tab. You will also find a section to enter your Redirect URI here.
 
 **Redirect URI**
-
-
-You'll have to set a Redirect URI in both 'web.config' *and* the Developer Portal ("Keys" section).  With this app, the typical value would be `https://localhost:44334/OAuth2Manager.aspx`, unless you host this sample app in a different way (if you were testing HTTPS, for example or changing the port).
+You'll have to set a Redirect URI in both 'web.config' and the Developer Portal ("Keys" section). With this app, the typical value would be http://localhost:27353/callback, unless you host this sample app in a different way (if you were testing HTTPS, for example or changing the port).
 
 **Scopes**
 
-While you are in web.config, you'll notice the scope configurations.
+Use the scopes as shown in the sample app or docs for different flows.
 
-    <!--Connect to Quickbooks flow scopes-->
-    <add key="scopeValC2QB" value="com.intuit.quickbooks.accounting com.intuit.quickbooks.payment" />
-
-    <!--Get App Now flow scopes-->
-    <add key="scopeValOpenId" value="com.intuit.quickbooks.accounting com.intuit.quickbooks.payment openid email profile phone address" />
-    
-    <!--Sign In With Intuit flow scopes-->
-    <add key="scopeValSIWI" value="openid email profile phone address" />
-
-It is important to ensure that the scopes your are requesting match the scopes allowed on the Developer Portal. For this sample app to work by default, your app on Developer Portal must support both Accounting and Payment scopes. If you'd like to support Accounting only, simply remove the com.intuit.quickbooks.payment scope from web.config.
+It is important to ensure that the scopes your are requesting match the scopes allowed on the Developer Portal. For this sample app to work by default, your app on Developer Portal must support both Accounting and Payment scopes. If you'd like to support Accounting only, simply remove thecom.intuit.quickbooks.payment scope from web.config.
 
 **Run your app!**
 
-After setting up both Developer Portal and your web.config(setup Log Path too), run the sample app.
-Check logs on the path you have already configured in the web.config to get details of how the flow worked.
+After setting up both Developer Portal and your web.config(setup Log Path too), run the sample app. Check logs on the path you have already configured in the web.config to get details of how the flow worked.
+
 
 All flows should work. The sample app supports the following flows:
 
-**Sign In With Intuit** - this flow requests OpenID only scopes. Feel free to change the scopes being requested in web.config. After authorizing (or if the account you are using has already been authorized for this app), the redirect URL will parse the JWT ID token, and make an API call to the user information endpoint. After authorizing (or if the account you are using has already been authorized for this app), the redirect URL will parse the JWT ID token, and make an API call to the userinfo endpoint.
+**Sign In With Intuit** - this flow requests OpenID only scopes. Feel free to change the scopes being requested in web.config. After authorizing (or if the account you are using has already been authorized for this app), the redirect URL will parse the JWT ID token, and make an API call to the user information endpoint.
 
-
-**Connect To QuickBooks** - this flow requests non-OpenID scopes. You will be able to make a QuickBooks API sample call (using the OAuth2 token) once the application is authorized.
+**Connect To QuickBooks** - this flow requests non-OpenID scopes. You will be able to make a QuickBooks API sample call (using the OAuth2 token) on the /connected landing page.
 
 **Get App Now (Openid)** - this flow requests both OpenID and non-OpenID scopes. It simulates the request that would come once a user clicks "Get App Now" on the apps.com website, after you publish your app.
-
-For more details on the different calls refer Oauth2/OpenId Connect docs on developer.intuit.com
 
