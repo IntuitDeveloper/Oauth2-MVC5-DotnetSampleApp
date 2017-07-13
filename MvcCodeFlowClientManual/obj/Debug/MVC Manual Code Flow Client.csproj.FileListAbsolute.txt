@@ -121,3 +121,43 @@ F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClien
 F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\obj\Debug\MVC Manual Code Flow Client.csprojResolveAssemblyReference.cache
 F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.dll
 F:\All samples Oauth2  Intuit\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll.config
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\MvcCodeFlowClientManual.pdb
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\IdentityModel.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Web.Infrastructure.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Newtonsoft.Json.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.ValueTuple.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Helpers.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Mvc.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Razor.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\IdentityModel.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Intuit.Ipp.OAuth2PlatformClient.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Logging.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.IdentityModel.Tokens.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\Newtonsoft.Json.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Helpers.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Mvc.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.Razor.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.Deployment.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\bin\System.Web.WebPages.Razor.xml
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\obj\Debug\MVC Manual Code Flow Client.csprojResolveAssemblyReference.cache
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.dll
+F:\Oauth2-MVC5-DotnetSampleApp\MvcCodeFlowClientManual\obj\Debug\MvcCodeFlowClientManual.pdb

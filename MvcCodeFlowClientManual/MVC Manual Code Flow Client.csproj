@@ -49,8 +49,8 @@
     <Reference Include="IdentityModel, Version=2.8.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\IdentityModel.2.8.1\lib\net452\IdentityModel.dll</HintPath>
     </Reference>
-    <Reference Include="Intuit.Ipp.OAuth2PlatformClient, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\IntuitOAuth2PlaformClient.3.2.0\lib\Intuit.Ipp.OAuth2PlatformClient.dll</HintPath>
+    <Reference Include="Intuit.Ipp.OAuth2PlatformClient, Version=3.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IntuitOAuth2PlaformClient.3.2.1\lib\Intuit.Ipp.OAuth2PlatformClient.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.IdentityModel.Logging, Version=1.1.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -72,7 +72,7 @@
       <HintPath>packages\Microsoft.Owin.Security.Cookies.3.1.0\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>packages\Newtonsoft.Json.10.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Owin">
       <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
