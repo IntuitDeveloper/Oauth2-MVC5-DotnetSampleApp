@@ -1,4 +1,4 @@
-﻿using System.Web.Optimization;
+﻿using System.Web.Optimization;//Microsoft.AspNet.Web.Optimization
 
 namespace MvcCodeFlowClientManual
 {

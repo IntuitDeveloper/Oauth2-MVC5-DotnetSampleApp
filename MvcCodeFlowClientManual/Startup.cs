@@ -1,9 +1,9 @@
 ﻿using Microsoft.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
-using Owin;
 using System.Collections.Generic;
 using System.IdentityModel.Tokens;
+using Owin;
 
 [assembly: OwinStartup(typeof(MvcCodeFlowClientManual.Startup))]
 
@@ -24,5 +24,7 @@ namespace MvcCodeFlowClientManual
                 AuthenticationMode = AuthenticationMode.Passive
             });
         }
+
+
     }
 }

@@ -26,7 +26,8 @@ namespace MvcCodeFlowClientManual.Controllers
 
         public async Task<ActionResult> Index()
         {
-            
+            ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
+
             Session.Clear();
             Session.Abandon();
             Request.GetOwinContext().Authentication.SignOut("Cookies");
