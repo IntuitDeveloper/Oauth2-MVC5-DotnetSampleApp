@@ -1,3 +1,5 @@
+[![Sample Banner](views/Sample.png)][ss1]
+
 # Oauth2-MVC5-DotnetSampleApp
 OAuth2 Web Forms Sample app for Dotnet
 The Intuit Developer team has written this OAuth 2.0 Sample App in .Net(C#) MVC5 to provide working examples of OAuth 2.0 concepts, and how to integrate with Intuit endpoints.It uses the Owin Context to save the user cookies for the session.
@@ -60,3 +62,4 @@ All flows should work. The sample app supports the following flows:
 
 **Get App Now (Openid)** - this flow requests both OpenID and non-OpenID scopes. It simulates the request that would come once a user clicks "Get App Now" on the apps.com website, after you publish your app.
 
+[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=Oauth2-MVC5-DotnetSampleApp
