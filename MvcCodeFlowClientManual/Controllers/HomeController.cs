@@ -84,7 +84,7 @@ namespace MvcCodeFlowClientManual.Controllers
                     //Mod
                     AppController.mod = key.N;
                 }
-                if (key.N != null)
+                if (key.E != null)
                 {
                     //Exponent
                     AppController.expo = key.E;
