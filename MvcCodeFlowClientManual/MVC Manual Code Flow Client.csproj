@@ -53,8 +53,50 @@
     <Reference Include="IdentityModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=e7877f4675df049f, processorArchitecture=MSIL">
       <HintPath>packages\IdentityModel.4.0.0-bunnahabhain\lib\net461\IdentityModel.dll</HintPath>
     </Reference>
-    <Reference Include="Intuit.Ipp.OAuth2PlatformClient, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\IntuitOAuth2PlaformClient.7.1.0-beta\lib\Intuit.Ipp.OAuth2PlatformClient.dll</HintPath>
+    <Reference Include="Intuit.Ipp.Core, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Data, Version=7.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.DataService, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.DataService.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Diagnostics, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Diagnostics.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.EntitlementService, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.EntitlementService.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Exception, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Exception.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.GlobalTaxService, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.GlobalTaxService.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.OAuth2PlatformClient, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.OAuth2PlatformClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.QueryFilter, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.QueryFilter.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.ReportService, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.ReportService.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Retry, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Retry.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Security, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.Utility, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="Intuit.Ipp.WebHooksService, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\Intuit.Ipp.WebHooksService.dll</HintPath>
+    </Reference>
+    <Reference Include="IppDotNetSdkForQuickBooksApiV3, Version=7.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\IppDotNetSdkForQuickBooksApiV3.7.5.1-beta\lib\net461\IppDotNetSdkForQuickBooksApiV3.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.IdentityModel.JsonWebTokens, Version=5.4.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
