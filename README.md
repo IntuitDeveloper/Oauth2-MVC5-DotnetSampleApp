@@ -1,4 +1,4 @@
-[![Sample Banner](views/Sample.png)][ss1]
+[![Rate your Sample](views/Ratesample.png)][ss1][![Yes](views/Thumbup.png)][ss2][![No](views/Thumbdown.png)][ss3]
 
 # Oauth2-MVC5-DotnetSampleApp
 OAuth2 Web Forms Sample app for Dotnet
@@ -62,4 +62,6 @@ All flows should work. The sample app supports the following flows:
 
 **Get App Now (Openid)** - this flow requests both OpenID and non-OpenID scopes. It simulates the request that would come once a user clicks "Get App Now" on the apps.com website, after you publish your app.
 
-[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=Oauth2-MVC5-DotnetSampleApp
+[ss1]: #
+[ss2]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=Yes&checkpoint=Oauth2-MVC5-DotnetSampleApp&pageUrl=github
+[ss3]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=No&checkpoint=Oauth2-MVC5-DotnetSampleApp&pageUrl=github
